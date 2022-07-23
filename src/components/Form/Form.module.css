@@ -1,0 +1,20 @@
+label {
+  margin-right: 10px;
+  font-size: 20px;
+}
+input {
+  margin-left: 5px;
+}
+
+.btn_close {
+  width: 100px;
+  height: 25px;
+}
+
+.btn_close:hover {
+  background-color: beige;
+}
+
+.form_input {
+  height: 25px;
+}

@@ -1,0 +1,21 @@
+.cnt_name {
+  font-style: italic;
+  font-size: 15px;
+  margin-right: 10px;
+}
+
+.cnt_number {
+  font-weight: 700;
+  font-size: 15px;
+  font-style: italic;
+}
+
+.close {
+  border-radius: 50%;
+  margin-left: 5px;
+  text-align: center;
+  justify-content: center;
+}
+.cnt_item {
+  margin-bottom: 10px;
+}
